@@ -1,0 +1,38 @@
+﻿Summary of Project: PU_Techfire
+
+
+Team Members:
+Sumindar Kaur Saini (Team Leader)
+Aman Agarwal
+Vaishali Chauhan 
+Vishal Dhull 
+Ankur Singh
+Peeyush Goyal
+
+
+Theme: Smart Education
+
+
+Idea Title: Library software for Andaman College 
+
+
+Summary of the project:
+Web based application for admin and students for computerization of Library Activities and Book Transactions that have some additional features 
+
+
+1. Voice based search system used for searching the books in the library.
+2. Automatic categorization of books at time of adding new books using ISBN number and collecting information via Google Search and webscrapping .The data analysis results in fetching the top 10 book arrivals.
+3. Book recommendation system based on Natural Language Processing (NLP) recommends book to the users of their personal interests.
+4. Digital fine payment via online payment gateway method including net banking and paytm.
+5. Reserve Book by student for a fixed time interval. Reserved books are issued on first-come-first-serve request. 
+6. Rating Books by student for recommending top liked books of library.
+7. Rarely used Books opened or issued by admin without fine.
+8. Sharing Books by two students by which fine also divided equally.
+9. Chatbots for resolving general queries and FAQs of students. 
+
+
+                                                    Technology Stack
+1. Front -End :  HTML, CSS, Bootstrap, Javascript, JQuery, Ajax 
+2. Backend : Php
+3. DataBase :  MySQL 
+4. Theme : NLP, Flask, Web-Scraping (Collection of Data)
