@@ -42,6 +42,16 @@ Web based application for admin and students for computerization of Library Acti
 ![Can_manage_issued_books_and_can_raise_query](https://user-images.githubusercontent.com/39858354/89032444-50869e00-d352-11ea-8ecb-c80b50463e6d.PNG)
 
 
+### Can manage all the books in the library and status of books
+Private and Open mode are if their is the fine on the book (More than the deadline) its open then there is no fine on book.
+![Can_manage_the_books](https://user-images.githubusercontent.com/39858354/89032622-ac512700-d352-11ea-92c3-e7345665af90.PNG)
+
+### Can manage registered students (In case someone's library card is expired or one is not a student of the college)
+![Can_Manage_the_registered_Students](https://user-images.githubusercontent.com/39858354/89032819-14a00880-d353-11ea-94e3-5643c92ec3ab.PNG)
+
+### Can see the status of the reserved books which should be issued on the basis of first come first serve basis..
+![can_see_online_reserved_books_by_student](https://user-images.githubusercontent.com/39858354/89032950-5af56780-d353-11ea-96de-0e5ad3b99f51.PNG)
+
 
 
 
