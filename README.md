@@ -14,6 +14,9 @@ Web based application for admin and students for computerization of Library Acti
 7. Rarely used Books opened or issued by admin without fine.
 8. Sharing Books by two students by which fine also divided equally.
 
-## Home Page
+## Home Page Showing the New Arrivals in the library
 
 ![HomePage_Showing_New_arrivals_in_library](https://user-images.githubusercontent.com/39858354/89031326-ea991700-d34f-11ea-8a4c-81c84f5d4352.PNG)
+
+## Search a book by voice can be categorized also by using catalog option
+![voice_based_searching_system](https://user-images.githubusercontent.com/39858354/89031508-3e0b6500-d350-11ea-93ec-ae6dfbab8080.PNG)
