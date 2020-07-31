@@ -33,5 +33,15 @@ Web based application for admin and students for computerization of Library Acti
 ## Admin dashboard after logged in
 ![Page_after_login_of_admin](https://user-images.githubusercontent.com/39858354/89032078-7b242700-d351-11ea-97e9-e0caf0786843.PNG)
 
+## Admin has the following facilities...
+
+### Can issue books on sharing (Not more than two students)
+![Can_issue_the_book_on_sharing_basis](https://user-images.githubusercontent.com/39858354/89032346-14533d80-d352-11ea-955e-3760621b5c83.PNG)
+
+### Can manage issued books
+![Can_manage_issued_books_and_can_raise_query](https://user-images.githubusercontent.com/39858354/89032444-50869e00-d352-11ea-8ecb-c80b50463e6d.PNG)
+
+
+
 
 
