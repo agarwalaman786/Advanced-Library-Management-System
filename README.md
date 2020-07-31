@@ -55,13 +55,27 @@ Private and Open mode are if their is the fine on the book (More than the deadli
 ### Can add the new book into system by just putting the ISBN No. of the book
 ![Need_to_put_ISBN_to_add_book](https://user-images.githubusercontent.com/39858354/89033107-bc1d3b00-d353-11ea-9d5a-a6b62f1b2154.PNG)
 
-## User Login along with Captch Verification
+## Student Login along with Captch Verification
 ![User_login_pannel](https://user-images.githubusercontent.com/39858354/89033339-364dbf80-d354-11ea-9870-7a4e5c3b989a.PNG)
 
-## User Signup it contains OTP verification also
+## Student Signup it contains OTP verification also
 ![Sign_up_form_for_new_user_registration](https://user-images.githubusercontent.com/39858354/89033407-567d7e80-d354-11ea-82f2-29bc2bea04f6.PNG)
 
-## User Dashboard
+## Student's Dashboard
 ![User_Dashboard](https://user-images.githubusercontent.com/39858354/89033499-80cf3c00-d354-11ea-824b-3147cb718e6e.PNG)
+
+## Student has the following facilities
+
+### Student can use the facility of early reservation of book by clicking on add to cart icon
+![Results_books_available_in_library_and_can_be_reserved_by_clicking_on_add_to_cart_icon](https://user-images.githubusercontent.com/39858354/89033795-37cbb780-d355-11ea-84b9-a2c8490bd306.PNG)
+
+![Can_add_the_book_in_cart_for_reservation_purpose](https://user-images.githubusercontent.com/39858354/89033678-f935fd00-d354-11ea-81a0-9560691ec395.PNG)
+
+### Can change the password of own account by using the registerd mobile number and OTP Verification
+![Can_Change_account_password](https://user-images.githubusercontent.com/39858354/89033884-71042780-d355-11ea-81fc-629536864cb5.PNG)
+
+![Otp_System_for_password_verification](https://user-images.githubusercontent.com/39858354/89033886-72355480-d355-11ea-8294-4d47929e89b7.PNG)
+
+### Can Manage own's profile
 
 
