@@ -77,5 +77,24 @@ Private and Open mode are if their is the fine on the book (More than the deadli
 ![Otp_System_for_password_verification](https://user-images.githubusercontent.com/39858354/89033886-72355480-d355-11ea-8294-4d47929e89b7.PNG)
 
 ### Can Manage own's profile
+![Untitled document](https://user-images.githubusercontent.com/39858354/89034166-0d2e2e80-d356-11ea-974f-046500f7b621.jpg)
 
+### Can see the details of the books which he/she had issued from the library
+![Can_see_details_of_issued_books](https://user-images.githubusercontent.com/39858354/89034358-69914e00-d356-11ea-95f4-ce8b64af879d.PNG)
 
+### Can see that whether the books is on shared mode or not
+![Can_See_status_whether_it_is_on_sharing_or_not](https://user-images.githubusercontent.com/39858354/89034448-96456580-d356-11ea-8ef1-b44cd6c3c484.PNG)
+
+### Can Pay fine online by using Paytm by clicking on the payment option
+![Can_pay_fine_online](https://user-images.githubusercontent.com/39858354/89034518-c2f97d00-d356-11ea-9fba-41c7e1e12f13.PNG)
+
+### After clicking fill the receipt for future reference and Click on Pay
+![Page_after_clicking_on_fine_payment_option](https://user-images.githubusercontent.com/39858354/89034750-39967a80-d357-11ea-91b3-b1d795ef07bc.PNG)
+
+### After this enter your Paytm number and make payment
+![Page_after_clicking_on_pay_button](https://user-images.githubusercontent.com/39858354/89034657-0c49cc80-d357-11ea-9e2a-929907344e50.PNG)
+
+### Student can also rate the book which he/she has studied this option is available when student click on the issued books button
+![Can_rate_the_book](https://user-images.githubusercontent.com/39858354/89034959-a447b600-d357-11ea-90de-c973d4907c8d.PNG)
+
+This is the whole detailed description of this project..
