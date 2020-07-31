@@ -52,6 +52,8 @@ Private and Open mode are if their is the fine on the book (More than the deadli
 ### Can see the status of the reserved books which should be issued on the basis of first come first serve basis..
 ![can_see_online_reserved_books_by_student](https://user-images.githubusercontent.com/39858354/89032950-5af56780-d353-11ea-96de-0e5ad3b99f51.PNG)
 
+### Can add the new book into system by just putting the ISBN No. of the book
+![Need_to_put_ISBN_to_add_book](https://user-images.githubusercontent.com/39858354/89033107-bc1d3b00-d353-11ea-9d5a-a6b62f1b2154.PNG)
 
 
 
